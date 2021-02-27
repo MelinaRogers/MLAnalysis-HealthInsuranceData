@@ -13,13 +13,13 @@ Implementations in this project:
 - Random Forest Regressor
 - XGBoost
 
-##Technologies
+## Technologies
 * Python version:       3.9
 * Pandas version:       1.2.2
 * Xgboost version:      1.3.3
 * Scikit-learn version: 0.24.1
 
-##Dataset
+## Dataset
 The dataset “Medical Cost Personal Dataset” comes from https://www.kaggle.com/mirichoi0218/insurance
 
 Includes attributes:
@@ -33,7 +33,7 @@ Charges (Target variable)
 
 
 
-##Citations
+## Citations
 Kaggle Medical Cost Personal Datasets. Kaggle Inc. https://www.kaggle.com/mirichoi0218/insurance
 
 Shinde A., Raut P. (2020) Comparative Study of Regression Models and Deep Learning Models for Insurance Cost Prediction. In: Abraham A., Cherukuri A., Melin P., Gandhi N. (eds) Intelligent Systems Design and Applications. ISDA 2018 2018. Advances in Intelligent Systems and Computing, vol 940. Springer, Cham. https://doi.org/10.1007/978-3-030-16657-1_103
